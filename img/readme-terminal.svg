@@ -1,0 +1,24 @@
+<svg width="980" height="360" viewBox="0 0 980 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="360" rx="18" fill="#070B12"/>
+  <rect x="1" y="1" width="978" height="358" rx="17" stroke="#1F2937" stroke-width="2"/>
+  <rect x="24" y="22" width="932" height="316" rx="14" fill="#0D1117"/>
+  <rect x="24" y="22" width="932" height="44" rx="14" fill="#111827"/>
+  <circle cx="50" cy="44" r="6" fill="#EF4444"/>
+  <circle cx="72" cy="44" r="6" fill="#F59E0B"/>
+  <circle cx="94" cy="44" r="6" fill="#22C55E"/>
+  <text x="125" y="49" fill="#94A3B8" font-size="16" font-family="Consolas, Menlo, monospace">mark@github:~/profile</text>
+  <text x="52" y="108" fill="#22C55E" font-size="20" font-family="Consolas, Menlo, monospace">$ whoami</text>
+  <text x="52" y="142" fill="#E5E7EB" font-size="20" font-family="Consolas, Menlo, monospace">Mark Yu - full-stack / cloud / data / game dev</text>
+  <text x="52" y="192" fill="#22C55E" font-size="20" font-family="Consolas, Menlo, monospace">$ focus --2027</text>
+  <text x="52" y="226" fill="#E5E7EB" font-size="20" font-family="Consolas, Menlo, monospace">resilient APIs, clean GUIs, observability, automation</text>
+  <text x="52" y="276" fill="#22C55E" font-size="20" font-family="Consolas, Menlo, monospace">$ status</text>
+  <text x="52" y="310" fill="#E5E7EB" font-size="20" font-family="Consolas, Menlo, monospace">build -> measure -> harden -> ship</text>
+  <rect x="678" y="104" width="226" height="28" rx="6" fill="#12201A"/>
+  <rect x="678" y="154" width="178" height="28" rx="6" fill="#12201A"/>
+  <rect x="678" y="204" width="206" height="28" rx="6" fill="#12201A"/>
+  <rect x="678" y="254" width="144" height="28" rx="6" fill="#12201A"/>
+  <text x="696" y="125" fill="#86EFAC" font-size="14" font-family="Consolas, Menlo, monospace">react next java rust</text>
+  <text x="696" y="175" fill="#86EFAC" font-size="14" font-family="Consolas, Menlo, monospace">azure docker ci</text>
+  <text x="696" y="225" fill="#86EFAC" font-size="14" font-family="Consolas, Menlo, monospace">kafka redis grafana</text>
+  <text x="696" y="275" fill="#86EFAC" font-size="14" font-family="Consolas, Menlo, monospace">unity figma</text>
+</svg>
