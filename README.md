@@ -44,11 +44,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zhenxiao-yu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhenxiao-yu&theme=github-dark&hide_border=true&area=true&custom_title=contribution+graph" width="100%" />
